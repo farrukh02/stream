@@ -199,9 +199,9 @@ sorted_dictionary = list(sorted(dictionary.items(), key=lambda item: item[1], re
 first_two = sorted_dictionary[:2]
 
 a = first_two[0][0]
-choice="Дарчои аввал ба Шумо мувофиқ аст "+a
+choice="Дар ҷои аввал ба Шумо мувофиқ аст: "+a
 b = first_two[1][0]
-choice2="Дарчои дуюм ба Шумо мувофиқ аст "+b
+choice2="Дар ҷои дуюм ба Шумо мувофиқ аст: "+b
 
     
 
